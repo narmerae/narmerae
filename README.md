@@ -1,4 +1,4 @@
-<h1 align="left">Hey, fellow Fireship enjoyer</h1>
+<h1 align="left">Hey,</h1>
 
 ###
 
