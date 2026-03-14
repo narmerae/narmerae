@@ -2,15 +2,11 @@
 
 ###
 
-<p align="left">My name is Narmi and I'm a front-end developer from Serbia.</p>
+<p align="left">My name is Narmi and I'm a front-end developer from Serbia. I'm currently working on largest job board in Serbia <a href="https://poslovi.infostud.com" target="_blank">Poslovi Infostud</a> </p>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2019  <br>📚 I'm currently learning TypeScript and GraphQL  <br>🎯 Goals: Master advanced GraphQL queries and enhance front-end optimization<br>✉️ kujundzicmatej64@gmail.com</p>
+<p align="left">✉️ kujundzicmatej64@gmail.com</p>
 
 ###
 
